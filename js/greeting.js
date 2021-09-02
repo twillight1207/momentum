@@ -34,9 +34,3 @@ if (savedUsername === null) {
     //show the greeting
     paintGreetings(savedUsername);
 }
-
-function randomNumberGenerate(rangeNum) {
-    return Math.floor(Math.random() * (rangeNum + 1));
-  }
-
-  console.log(randomNumberGenerate(10));
