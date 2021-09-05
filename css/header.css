@@ -11,17 +11,14 @@
     font-family: var(--main-font);
     font-weight: 700;
     margin: 0 auto;
+    padding-left: 20px;
 }
 
 #weather {
-    position: absolute;
-    top: 0;
-    right: 10px;
-    font-size: 12px;
+    font-size: 15px;
     color: white;
     text-align:right;
-}
-
-#weather #block {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
 }
