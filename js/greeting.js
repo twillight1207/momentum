@@ -5,11 +5,6 @@ const greeting = document.querySelector("#greeting");
 const HIDDEN_CLASSNAME = "hidden";
 const USERNAME_KEY = "username"
 
-function paintGreetings(name) {
-    greeting.classList.remove(HIDDEN_CLASSNAME);
-    greeting.innerText = `Hello ${name}!`;
-}
-
 function onLoginSubmit(event) {
     //누르면 새로고침하는 것을 막음
     event.preventDefault();
@@ -22,6 +17,10 @@ function onLoginSubmit(event) {
     paintGreetings(username);
 }
 
+function paintGreetings(name) {
+    greeting.innerText = `Hello ${name}!`;
+    greeting.classList.remove(HIDDEN_CLASSNAME);
+}
 
 
 const savedUsername = localStorage.getItem(USERNAME_KEY);

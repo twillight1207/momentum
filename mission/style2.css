@@ -1,9 +1,0 @@
-#range,
-#guess-message {
-  display: flex;
-  align-items: center;
-}
-
-.hidden {
-  display: none;
-}
