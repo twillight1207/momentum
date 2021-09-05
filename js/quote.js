@@ -1,43 +1,43 @@
 const quotes = [
     {
-        quote: "People love what other people are passionate about.",
-        movie: "La La Land",
+        quote: "Sometimes you gotta run before you walk.",
+        movie: "Iron Man",
     },
     {
-        quote: "I've never loved anyone the way I love you.",
-        movie: "Her",
+        quote: "I love you three thousand.",
+        movie: "Tony Stark",
     },
     {
-        quote: "When your mind is made up, there's no point trying to change it.",
-        movie: "Once",
+        quote: "Uneasy lies the head that wears a crown",
+        movie: "Nick Fury",
     },
     {
-        quote: "You can never do anything by half. Do you understand that?",
-        movie: "Sing Street",
+        quote: "I can do this all day.",
+        movie: "Captain America",
     },
     {
-        quote: "Show me which constellations you know.",
-        movie: "Eternal Sunshine",
+        quote: "I have nothing to prove to you.",
+        movie: "Captain Marvel",
     },
     {
-        quote: "Needed to live humanly, it is very simple. Someone to love and to work",
-        movie: "The Intern",
+        quote: "A thing isn't beautiful because it lasts. It's a privilege to be among them.",
+        movie: "Vision",
     },
     {
-        quote: "If you make a mistake, get all tangled up, just tango on.",
-        movie: "Scent of a Woman",
+        quote: "People without a vision for the future, will always return to their past.",
+        movie: "Black Widow",
     },
     {
-        quote: "Hello, stranger.",
-        movie: "Closer",
+        quote: "We never lose our demons. We only learn to live above them.",
+        movie: "The Ancient One",
     },
     {
-        quote: "It does not to dwell on dreams and forget to live.",
-        movie: "Harry Potter",
+        quote: "Freedom is life's great lie, and once you accept that, you will know peace.",
+        movie: "Loki",
     },
     {
-        quote: "God, tell us the reason youth is wasted on the young.",
-        movie: "Begin Again",
+        quote: "Avengers, Assemble",
+        movie: "Captain America",
     }
 
 ]
