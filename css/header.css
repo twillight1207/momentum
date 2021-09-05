@@ -15,14 +15,11 @@
 
 #weather {
     position: absolute;
-    right: 0;
+    top: 0;
+    right: 10px;
     font-size: 12px;
     color: white;
     text-align:right;
-}
-
-#weather span i {
-    color: white;
 }
 
 #weather #block {
